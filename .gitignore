@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+out/
+training/
+dl_package.zip
+dl_package/data/
+dl_package/model.pt
+*.npz
+*.e57
+*.las
+*.laz
+*.dxf
+*.pdf
+*.f32
+*.u8

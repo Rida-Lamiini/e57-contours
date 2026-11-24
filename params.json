@@ -1,0 +1,9 @@
+{
+ "tall_h": 3.218,
+ "close_it": 1,
+ "open_it": 6,
+ "smooth_r": 1.141,
+ "min_seg": 1.806,
+ "merge_tol": 0.703,
+ "dp_tol": 0.408
+}
